@@ -25,5 +25,4 @@ export interface ButtonProps {
 /**
  * Primary UI component for user interaction
  */
-declare const Button: ({ primary, backgroundColor, size, onClick, label, }: ButtonProps) => JSX.Element;
-export default Button;
+export declare const Button: ({ primary, backgroundColor, size, onClick, label, }: ButtonProps) => JSX.Element;
