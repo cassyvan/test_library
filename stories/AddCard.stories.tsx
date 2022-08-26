@@ -2,7 +2,7 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
 
-import { AddCard } from '../src/components/Cards/AddCard';
+import { AddCard } from '../src/components/AddCard/AddCard';
 
 export default {
     title: 'Cards/AddCard',
