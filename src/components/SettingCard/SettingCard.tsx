@@ -1,7 +1,7 @@
 import { Typography } from '@mui/material';
 import React from 'react';
 import styled from 'styled-components';
-import { AddCard } from './AddCard';
+import { AddCard } from '../AddCard';
 
 type SettingCardProps = {
   title?: string;

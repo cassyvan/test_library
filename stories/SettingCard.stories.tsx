@@ -1,7 +1,7 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
-import { MainLabel, SettingCard } from '../src/components/Cards/SettingCard';
+import { MainLabel, SettingCard } from '../src/components/SettingCard/SettingCard';
 
 export default {
   title: 'Cards/Setting Card',
